@@ -1,0 +1,12 @@
+.idea
+node_modules
+.env
+coverage
+coverage.json
+typechain
+commands.bat
+
+#Hardhat files
+cache
+artifacts
+contracts/artifacts
